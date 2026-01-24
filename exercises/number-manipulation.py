@@ -111,4 +111,3 @@ print(result)  # 9.0
 # hat is the data type of the result of the variable a in the following line of code:
 a = int("5") / int(2.7)
 print(type(a))  # <class 'float'>
-

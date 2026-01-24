@@ -148,7 +148,3 @@ number = int(value) + 50
 print(number)
 # The output will be 150 because the string "100" is converted to the integer 100, 
 # and then 50 is added to it.
-
-
-
-    
