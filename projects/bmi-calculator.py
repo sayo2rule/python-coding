@@ -20,4 +20,3 @@ if __name__ == "__main__":
         print("You are overweight.")
     else:
         print("You are obese.") 
-
