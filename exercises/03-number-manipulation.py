@@ -108,6 +108,6 @@ result = 3 + 5 * 2 - (4 / 2) ** 2
 print(result)  # 9.0
 
 # Exercise
-# hat is the data type of the result of the variable a in the following line of code:
+# What is the data type of the result of the variable a in the following line of code:
 a = int("5") / int(2.7)
 print(type(a))  # <class 'float'>

@@ -11,7 +11,7 @@ print(random_range_20)  # Print a random integer between 0 and 19
 random_integer = random.randint(1, 10)
 print(random_integer)   # Print a random integer between 1 and 10 (inclusive)
 
-# Random float
+# Random float 
 random_float = random.random()
 print(random_float)     # Print a random float between 0.0 and 1.0
 
